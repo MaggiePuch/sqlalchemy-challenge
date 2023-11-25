@@ -1,6 +1,6 @@
 # sqlalchemy-challenge
 
-Website references:  
+### Heading3 Website references:  
 
 Information on Histograms: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html     
 
